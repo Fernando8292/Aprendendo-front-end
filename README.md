@@ -61,8 +61,9 @@
     <div class="box">
         <h1>Fernando Toledo de Oliveira</h1>
 
-        <img src="images/logo.png" alt="Logo do Projeto" width="300">
-    </div>
+        
+    </div>![Minha foto](https://github.com/user-attachments/assets/ffeb7578-bb58-4f49-b261-836e43081e22)
+
 
     <!-- Div 2 -->
     <div class="box">
