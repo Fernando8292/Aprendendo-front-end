@@ -62,7 +62,7 @@
         <h1>Fernando Toledo de Oliveira</h1>
 
         <!-- SUA FOTO -->
-        <img src="minha-foto.jpg" alt="Foto de Fernando">
+        <img src="[minha-foto.jpg" alt="Foto de Fernando](https://github.com/Fernando8292/Aprendendo-front-end/blob/main/5550101%20WhatsApp%20Image%202026-04-07%20at%2009.49.07.JPG)">
     </div>
 
     <!-- Div 2 -->
