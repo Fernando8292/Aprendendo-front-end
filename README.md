@@ -1,4 +1,4 @@
-# Aprendendo-front-end
+# Aprendendo front-end
 
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -61,8 +61,7 @@
     <div class="box">
         <h1>Fernando Toledo de Oliveira</h1>
 
-        <!-- SUA FOTO -->
-        <img src="[minha-foto.jpg" alt="Foto de Fernando](https://github.com/Fernando8292/Aprendendo-front-end/blob/main/5550101%20WhatsApp%20Image%202026-04-07%20at%2009.49.07.JPG)">
+        <img src="images/logo.png" alt="Logo do Projeto" width="300">
     </div>
 
     <!-- Div 2 -->
